@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pagos-436715",
+  "private_key_id": "cba82996c247619d6a097666f33358fe55c1a329",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXENe9awEdOpLD\nF0gL65WT5j6R9Isix2j0+tmwsb8h9v+leDo1gZivAtKKQGc/1WRmLhpgr0PtdrEZ\nW1JY3Qu6ZGaVszfwf09KwVXzPaeC95OnLjqMC4zMg9pnYAZhReubClOlMAWbA9qq\nMWZ7EM57F6LFw/rSE8C/Deu+DuFRkuOQ/SrQCPIHJTK1HKRn7BqSnjWxhxOCv0Ew\n1S8w3gjL7DO/W48FpoNTY6zGKZVtjKTrTcytPB+DrHsfC71G/4f/PfUz8EdLIN7C\nIc5TwOC6kqgUP72Rnaftla9/qM3bPhd1Mk7shtJkNUDbjSJqz9a7iQyo12m0Apxe\nHbym+EIfAgMBAAECggEAT4E6+BvMJCWIptV+/WUgfTYDUIqyOu+z9cicXE1BZsl8\nVYv+HNSlgKFO+uv3H2qAPKPzfWWde3ZC3yha514EHWpLYDEKT36I7g5N+2eB+xES\nRR36Z9ZHPT3LKiceBKzH/h9Rr8HyeI1yszMi+wDKDEg/FNQv76R8v0Rir3apxjEV\nHo5m8PFuFjGAm7p723ieZ8xhPxr+Bj0p5B77TdDbNkS1JmyhsZrutgcFkZDfzfUt\nJyzugLmCFr8z5e0LRjl9QltjhxHEjxCk8BGt8qXThuDouZxSBJh03HNvsQolJoIr\nJmvCuV6+QV20HXXyb2J6kLAIAeou4n5ptNDA9foiOQKBgQDxtJfV3zBjmVYMPQ+m\nInRHk/kod/F3wAEf+WTVYK7nlH67wjbpyC4tW8E3HQygSCzPDz9jnaSC0F0c/Nsq\ns+1ohLTFrPp5cMaB64rKWrR+AcmTxoS9/udpjwGy9QAKkDWrVpNQR5uvgMXPQ/EA\npsvfp3uIsxHhzQHTv7luidT6dwKBgQDjyO1DvtYFJG82unXT8pxu43WaMAOP5xQ0\nADQs5atdedl5oBCrEgDfctO4OokFyj5lgexQ0H0r4RCw4j9EuRIIh6MERg1jH1hG\nlpUB+OnU0RgpyP5ZDnIoqABnEW/NVxiyyDxNUNSiMqMSZZe6DUuMaF9bNKKQKdqs\nZ1tJ+tk3mQKBgBrQ5XOWAoFaVsCe2aid8/apBSCnRgP6KmXIvpYp1t3cjL76Ciuf\nyPfBUUtzDp6Nw2LplyfPKpxUz6/SoeI3+iP5bTDtQxDMIUnyvwA6VgIQ4rNheAK4\nUCZW9mJLakjBvSKYRVnHyA8No2SebhObbc0PgNYmv9oka4p5n/ISmq17AoGBAKbz\nQ4NdwbtvItw3+dhof2N+71kdS98S/OnIJHWrt9gBUPYl7VGVFnKv1KG4tWk6/FSl\nzzDEPpoEkZkzmi+ifacm0sJ1HabC+I50G66gY7IJtu4ZVOKtBdrql7DzRMB5z65p\nuFjqn45qEr+PGo/Q4sh8Tzen8mY7ZvzpnC0y4DYxAoGAYV6Ide9y9Lepeb3Ery0E\nUoPZCSrGHRycWssB1kXbqN1irkuOHSXS4rGPAOqfVFixJ+poRoob6XDZlxcl/BwN\nQjHnosq83cxHjPhUUFywOs0G/4KFMwCOXsGihiQSs4xuwjtBK98EVmtThfXP9STO\nAfROEFCzC5eCugjS9mnoato=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nombre-cuenta-servicio@pagos-436715.iam.gserviceaccount.com",
+  "client_id": "115567809730039409665",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nombre-cuenta-servicio%40pagos-436715.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
